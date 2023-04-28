@@ -1,0 +1,23 @@
+{
+    "Primer Nivel 1": [
+      {
+        "key": "1.1",
+        "texto": "Subnivel 1.1"
+      },
+      {
+        "key": "1.2",
+        "texto": "Subnivel 1.2"
+      }
+    ],
+    "Primer Nivel 2": [
+      {
+        "key": "2.1",
+        "texto": "Subnivel 2.1"
+      },
+      {
+        "key": "2.2",
+        "texto": "Subnivel 2.2"
+      }
+    ]
+  }
+  

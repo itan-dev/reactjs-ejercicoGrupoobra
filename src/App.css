@@ -1,3 +1,15 @@
+.container{
+  max-width: 1080px;
+  
+}
+.content-menu{
+  background-color: #61dafb;
+  padding: 20px;
+}
+.content-footer{
+  background-color: #61dafb;
+  padding: 20px;
+}
 .App {
   text-align: center;
 }
